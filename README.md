@@ -94,4 +94,4 @@ Note that while finding ragam, only the ascending scale is considered, which cou
 ### References
 - Database source: [Wikipedia](https://en.wikipedia.org/wiki/List_of_Janya_ragas)
 - Image source: [ShutterStock](https://www.shutterstock.com/image-vector/vector-illustration-abstract-music-collage-background-620624174)
-- Inspiration from CS50 Finance
+- Website design: from CS50 Finance
