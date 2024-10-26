@@ -1,0 +1,10 @@
+* Ability to idenitfy Janya, Vakra and complex ragas too
+
+* Ability to recognize the raga of the song taken as audio input:
+- use python audio analysis modules to map the frequencies to music notes(swaras)
+- then store the swaras of ragas and the pattern as a raga in a database
+- then match the extracted notes and output the closest match
+
+* Update database: 
+- add the details of as many ragas as possible, along with as many songs in that raga as possible
+- Songs and authors based on ragas
